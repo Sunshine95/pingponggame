@@ -1,2 +1,1 @@
-# ping pong game in JavaScript
-# made from a code along course.
+ping pong game in JavaScript
